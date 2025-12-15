@@ -1,4 +1,3 @@
----
 #Deployment link
 
 https://ai-based-cyber-security-threats-tyei.onrender.com/
@@ -81,9 +80,6 @@ Displays live geographic locations of global cyber attacks to track cross-border
 
 
 
-
-
-
 # Welcome to my Ai Based Cyber Security Threat Prediction AI Agent
 
 ```
@@ -151,4 +147,3 @@ Example:
 # Step 5: In the IDE terminal, run the command to start the development server: npm run dev -- --host 127.0.0.1
 # Step 6: if step 5 failed, try this command to start the development server: npx vite --host 127.0.0.1
 ```
-
